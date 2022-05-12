@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 Atualmente, estudando Ciência da Computação, na UFABC
-- 🌱 Estudando React.Js e Node.js
 - 😄 Pronouns: Ele/Dele
  <div>
   <a href="https://github.com/gabriel-fogaca">
