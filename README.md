@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Atualmente, estudando Ciência da Computação, na UFABC
+- 🔭 Atualmente, sou estagiário no desenvolvimento Java em microsserviços.
 - 😄 Pronouns: Ele/Dele
  <div>
   <a href="https://github.com/gabriel-fogaca">
